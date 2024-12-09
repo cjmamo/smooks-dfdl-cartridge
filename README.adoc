@@ -5,7 +5,7 @@ image:https://img.shields.io/nexus/s/org.smooks.cartridges/smooks-dfdl-cartridge
 image:https://github.com/smooks/smooks-dfdl-cartridge/workflows/CI/badge.svg[Build Status]
 
 // tag::smooks-dfdl-cartridge[]
-The DFDL cartridge opens up Smooks to an incredible number of data formats (e.g., SWIFT, ISO8583, HL7). In fact, this cartridge forms the foundation of the https://github.com/smooks/smooks-edi-cartridge[EDI and EDIFACT cartridges]. The DFDL cartridge deserializes (i.e., parses) non-XML data and serializes (i.e., unparses) XML according to the structure described in a https://daffodil.apache.org/docs/dfdl/[DFDL] schema. Take the subsequent DFDL schema as an example:
+The DFDL cartridge opens up Smooks to a wide array of data formats (e.g., SWIFT, ISO8583, HL7). In fact, this cartridge forms the foundation of the https://github.com/smooks/smooks-edi-cartridge[EDI and EDIFACT cartridges]. The DFDL cartridge deserializes (i.e., parses) non-XML data and serializes (i.e., unparses) XML according to the structure described in a https://daffodil.apache.org/docs/dfdl/[DFDL] schema. Take the subsequent DFDL schema as an example:
 
 .csv.dfdl.xsd
 [source,xml]

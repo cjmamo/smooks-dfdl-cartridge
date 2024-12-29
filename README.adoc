@@ -190,7 +190,7 @@ DFDL's transformation features should not be conflated with mapping. As highligh
 
 === Indent
 
-Indent the generated event stream to make it easier to read. Useful for troubleshooting. The default value is `false`. Example:
+Indent the generated event stream to make it easier to read. Useful for troubleshooting. The default value is `false`. Usage example:
 
 .smooks-config.xml
 [source,xml]
@@ -206,7 +206,7 @@ Indent the generated event stream to make it easier to read. Useful for troubles
 [#_parser_options_ceche_on_disk]
 === Cache on disk
 
-Persist DFDL schema on disk to reduce compilation time in subsequent runs. The default value is `false`. Example:
+Persist DFDL schema on disk to reduce compilation time in subsequent runs. The default value is `false`. Usage example:
 
 .smooks-config.xml
 [source,xml]

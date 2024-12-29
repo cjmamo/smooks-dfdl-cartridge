@@ -143,7 +143,7 @@ The DFDL cartridge supports variables, on disk caching, and trace debugging. Con
 
 == DFDL Guidance
 
-Many DFDL schemas are freely available from the https://github.com/dfdlschemas[DFDL Schemas for Commercial and Scientific Data Formats GitHub repository]. However, should you decide to author your own schemas, we strongly urge you to gain a good understanding of DFDL first. Resources to get started with DFDL include:
+Many DFDL schemas are freely available from the https://github.com/dfdlschemas[DFDL Schemas for Commercial and Scientific Data Formats GitHub repository]. However, should you decide to author your own schemas, we strongly urge you first to gain a good understanding of DFDL. Resources to get started with DFDL include:
 
 * https://ogf.org/ogf/doku.php/standards/dfdl/dfdl[Open Grid Forum DFDL page]
 * https://daffodil.apache.org/community/[Apache Daffodil community]

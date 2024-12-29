@@ -155,7 +155,7 @@ The next sections document common pitfalls to avoid when authoring DFDL schemas.
 
 === Validation
 
-DFDL v1.0 supports data validation in the form of XSD constraints. Additional validation can be accomplished with the `dfdl:assert` statement as shown in the DFDL schema snippet below where the `failureType` attribute is equal to `recoverableError` so as not to interrupt parsing:
+DFDL v1.0 supports data validation in the form of XSD constraints. Additional validation can be accomplished with the https://daffodil.apache.org/docs/dfdl/#_Toc62570086[`dfdl:assert`] statement as shown in the DFDL schema snippet below where the `failureType` attribute is equal to `recoverableError` so as not to interrupt parsing:
 
 [source,xml]
 ----

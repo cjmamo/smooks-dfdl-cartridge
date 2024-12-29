@@ -151,7 +151,7 @@ Many DFDL schemas are freely available from the https://github.com/dfdlschemas[D
 * https://daffodil.apache.org/faq/[Frequently Asked Questions]
 * https://cwiki.apache.org/confluence/display/DAFFODIL/DFDL+Schema+Style+Guide[DFDL Schema Style Guide]
 
-The next sections document common pitfalls to avoid when authoring DFDL schemas.
+The next sections address common pitfalls to avoid when authoring DFDL schemas.
 
 === Validation
 
